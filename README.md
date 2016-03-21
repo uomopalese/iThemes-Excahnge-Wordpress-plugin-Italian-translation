@@ -5,7 +5,7 @@ Put the main Exchange plugin file translation in:
 you WordPress installation > wp-content > plugins > ithemes-exchange > lang
 
 To avoid overwriting un update process copy them in:
-you WordPress installation > wp-content > plugins > ithemes-exchange > languages > plugins > ithemes-exchange
+you WordPress installation > wp-content > plugins > ithemes-exchange > languages > plugins > ithemes-exchange (manually create this folder)
 
 Put the Membership Add-on translation in:
 you WordPress installation > wp-content > plugins > exchange-addon-membership > lang
