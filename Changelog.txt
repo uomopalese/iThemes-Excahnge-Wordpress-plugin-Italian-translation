@@ -1,4 +1,5 @@
 Changelog:
 
 v 1.0.1
-Translation of Add-on names in the main Add-on section is in both languages, eg: Membership (Abbonamento), to avoid confusion when customers go to the download section in their iThemes account.
+- Translation of Add-on names in the main Add-on section is in both languages, eg: Membership (Abbonamento), to avoid confusion when customers go to the download section in their iThemes account.
+- Minor adjustments
