@@ -4,7 +4,7 @@ Italian translation for Exchange plugin and Membership Add-on by iThemes
 Put the main Exchange plugin file translation in:<br/>
 your WordPress installation > wp-content > plugins > ithemes-exchange > lang
 
-To avoid overwriting un update process copy them in:<br/>
+To avoid overwriting on update process copy them in:<br/>
 your WordPress installation > wp-content > plugins > ithemes-exchange > languages > plugins > ithemes-exchange (manually create this folder)
 
 Put the Membership Add-on translation in:<br/>
